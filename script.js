@@ -1,4 +1,7 @@
-const api_url = "https://tcetsep10.herokuapp.com/user"
+// const api_url = "https://tcetsep10.herokuapp.com/user"
+
+const api_url = "https://userdatabymongodb.herokuapp.com/user"
+
 // const api_url = "http://localhost:8080/user"
 function loadData(records = []) {
     var table_data = "";
